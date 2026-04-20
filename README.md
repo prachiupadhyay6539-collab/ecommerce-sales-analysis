@@ -46,16 +46,22 @@ profitability drivers. Key concerns:
 
 ## Project Structure
 
+```
 ecommerce-sales-analysis/
+│
 ├── data/
 │   └── samplesuperstore.csv
+│
 ├── sql/
 │   └── SQLQuery2.sql
+│
 ├── dashboard/
-│   └── sample_super_store.pbix
+│   ├── sample_super_store.pbix
 │   └── dashboard_preview.png
-└── presentation/
-└── Superstore_Analysis_Prachi_Upadhyay.pdf
+│
+├── presentation/
+│   └── Superstore_Analysis_Prachi_Upadhyay.pdf
+```
 
 ---
 
